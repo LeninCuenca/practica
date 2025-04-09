@@ -4,6 +4,7 @@
 
 ```
 - Lenin Andres Cuenca Cuenca
-- 1550041121
-- 22 años
+- cedula: 1550041121
+- Edad: 22 años
+- carrrera: Computacion
 ```
