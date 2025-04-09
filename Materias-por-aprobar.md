@@ -1,4 +1,4 @@
-#Materias por aprobar
+# Materias por aprobar
 # Ciclo VI
 Teoría de Autómatas y  Compiladores
 Fundamentos de Redes
